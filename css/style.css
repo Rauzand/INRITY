@@ -141,14 +141,13 @@ footer {
     transition: all 0.2s;
   }
   
-  
-.card__title {
+  .card__title {
     font-style: italic;
-  font-size: 17px;
-  grid-row: 3/4;
-  font-weight: 400;
-    color: #131212;
-}
+    font-size: 17px;
+    grid-row: 3/4;
+    font-weight: 400;
+    color: #111010;
+  }
 
 
 .map iframe {
